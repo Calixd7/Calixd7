@@ -14,6 +14,4 @@
   ** [LinkedIn] (https://www.linkedin.com/in/david-calix-3b8230204/)**  
 - ⚡️ Fun fact: I love to play guitar and love skydiving, currently seeking my skidiving license 🪂.
 
-[![Calixd7's GitHub stats](https://github-readme-stats.vercel.app/api?username=calixd7)](https://github.com/calixd7/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=calixd7)](https://github.com/calixd7/github-profile-trophy)
+[![Calixd7's GitHub stats]((https://github-readme-stats.vercel.app/api?username=calixd7&show_icons=true&theme=radical)
