@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there, I'm David Calix👋
 
-<!--
-**Calixd7/Calixd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a full-stack software engineer with a primarily focus on back-end applications. 
 
-Here are some ideas to get you started:
+**Skilled in Javascript, Python, HTML, CSS, Django, Django Restframework, NodeJS, React, and RESTfull API’s, .** API Developer / Back End Developer from Momentum Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🌱 I’m currently learning **Ruby - Ruby on Rails**
+- 🔭 I’m looking to collaborate on open source and learn all about it
+- 🤔 Life long learner and enjoy accumulating knowledge from others!
+- 💬 Ask me about **Web/API Development**
+- 📫 How to reach me:
+  ** [LinkedIn] (https://www.linkedin.com/in/david-calix-3b8230204/)**  
+- ⚡️ Fun fact: I love to play guitar and love skydiving, currently seeking my skidiving license 🪂.
