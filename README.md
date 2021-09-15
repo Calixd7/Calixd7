@@ -6,7 +6,6 @@
 
 ---
 
-- 🌱 I’m currently learning **Ruby - Ruby on Rails**
 - 🔭 I’m looking to collaborate on open source and learn all about it
 - 🤔 Life long learner and enjoy accumulating knowledge from others!
 - 💬 Ask me about **Web/API Development**
