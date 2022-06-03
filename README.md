@@ -2,7 +2,7 @@
 
 #### I'm a full-stack software engineer with a primarily focus on back-end applications. 
 
-**Skilled in Javascript, Python, HTML, CSS, Django, Django Restframework, NodeJS, React, and RESTfull API’s. ** API Developer / Fullstack Developer from Momentum Learning.
+**Skilled in Javascript, Python, HTML, CSS, Django, Django Restframework, NodeJS, React, and RESTfull API’s. ** API Developer.
 
 ---
 
