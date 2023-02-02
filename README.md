@@ -11,6 +11,6 @@
 - 💬 Ask me about **Web/API Development**
 - 📫 How to reach me:
   ** [LinkedIn] (https://www.linkedin.com/in/david-calix-3b8230204/)**  
-- ⚡️ Fun fact: I love to play guitar and love skydiving🪂.
+- ⚡️ Fun fact: I love to play guitar.
 
 [![Calixd7's GitHub stats](https://github-readme-stats.vercel.app/api?username=calixd7&theme=tokyonight)](https://github.com/calixd7/github-readme-stats)
